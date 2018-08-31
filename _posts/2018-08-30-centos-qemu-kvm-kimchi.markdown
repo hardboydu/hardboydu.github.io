@@ -78,7 +78,7 @@ sudo firewall-cmd --add-port 5900/tcp --permanent
 sudo setenforce 0
 ```
 
-临时关闭 SELinux
+永久关闭 SELinux
 
 ```bash
 # This file controls the state of SELinux on the system.
