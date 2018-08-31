@@ -94,7 +94,7 @@ SELINUX=disabled
 SELINUXTYPE=targeted
 ```
 
-事件服务
+时间服务
 
 ```bash
 sudo systemctl enable chronyd
