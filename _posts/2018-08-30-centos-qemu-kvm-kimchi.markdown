@@ -94,6 +94,13 @@ SELINUX=disabled
 SELINUXTYPE=targeted
 ```
 
+事件服务
+
+```bash
+sudo systemctl enable chronyd
+sudo systemctl restart chronyd
+```
+
 重启 kimchi 服务
 
 ```bash
