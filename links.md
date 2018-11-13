@@ -12,6 +12,8 @@ permalink: /links/
 
 ## University
 
+* [CMU 15-418/15-618: Parallel Computer Architecture and Programming](https://www.cs.cmu.edu/~418) 并行计算的体系结构和编程，有视频PPT，讲解的很细，值得深入学习
+
 ### University of Cambridge
 
 * [Department of Computer Science and Technology - The Computer Laboratory](https://www.cl.cam.ac.uk/)
