@@ -7,6 +7,7 @@ permalink: /links/
 ## Blogs
 
 * [dog250](https://blog.csdn.net/dog250) 老哥对Linux内核和网络理解很深，值得阅读
+* [Brendan D. Gregg](http://www.brendangregg.com/) 性能优化大神，值得关注
 * [Dennis Yurichev / Денис Юричев](https://yurichev.com/) . [Reverse Engineering for Beginners](https://beginners.re/) . [SAT/SMT by examples](https://yurichev.com/writings/SAT_SMT_by_example.pdf) . [逆向工程权威指南.异步社区](https://www.epubit.com/book/detail/18526)
 
 ## University
