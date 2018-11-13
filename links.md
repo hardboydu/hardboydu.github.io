@@ -4,6 +4,11 @@ title: Links
 permalink: /links/
 ---
 
+## Blogs
+
+* [dog250](https://blog.csdn.net/dog250) 老哥对Linux内核和网络理解很深，值得阅读
+* [Dennis Yurichev / Денис Юричев](https://yurichev.com/) . [Reverse Engineering for Beginners](https://beginners.re/) . [SAT/SMT by examples](https://yurichev.com/writings/SAT_SMT_by_example.pdf) . [逆向工程权威指南.异步社区](https://www.epubit.com/book/detail/18526)
+
 ## University
 
 ### University of Cambridge
@@ -19,9 +24,3 @@ permalink: /links/
     * Course 2017–18 [Advanced Algorithms](https://www.cl.cam.ac.uk/teaching/1718/AdvAlgo/) introduce advanced techniques for the design and analysis of algorithms that arise in a variety of applications. A particular focus will be on parallel algorithms, linear programming and approximation algorithms.
     * Course 2017–18 [Advanced Operating Systems](https://www.cl.cam.ac.uk/teaching/1718/L41/) Systems research refers to the study of a broad range of behaviours arising from complex system design, including: low-level operating systems; resource sharing and scheduling; interactions between hardware and software; network-protocol design and implementation; separation of mutually distrusting parties on a common platform; and control of distributed-system behaviours such as concurrency and data replication.
     * Course 2017–18 [High performance networking](https://www.cl.cam.ac.uk/teaching/1718/P51/) This module provides an introduction to High Performance Networking, it explores both software and hardware aspects and provides the students an opportunity to experience high performance networking design and usage first hand.
-
-
-
-## Reverse Engineering 逆向工程
-
-* [Dennis Yurichev / Денис Юричев](https://yurichev.com/) . [Reverse Engineering for Beginners](https://beginners.re/) . [SAT/SMT by examples](https://yurichev.com/writings/SAT_SMT_by_example.pdf) . [逆向工程权威指南.异步社区](https://www.epubit.com/book/detail/18526)
