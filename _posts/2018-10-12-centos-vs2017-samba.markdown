@@ -26,12 +26,32 @@ sudo yum -y install samba
 
 添加防火墙规则：
 
+RHEL/CentOS 6.x：
+
+```sh
+~]# iptables -I INPUT -p udp -m multiport  --dport 137,138 -j ACCEPT
+~]# iptables -I INPUT -p tcp -m state --state NEW -m multiport --dport 139,445 -j ACCEPT
+
+~]# service iptables save
+```
+
+RHEL/CentOS 7.x：
+
 ```sh
 ~]# firewall-cmd --permanent --add-port={139/tcp,445/tcp}
 ~]# firewall-cmd --reload
 ```
 
 启动 samba 服务：
+
+RHEL/CentOS 6.x：
+
+```sh
+~]# chkconfig  smb on
+~]# service smb restart
+```
+
+RHEL/CentOS 7.x：
 
 ```sh
 ~]# systemctl enable smb
