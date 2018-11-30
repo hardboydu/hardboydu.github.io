@@ -1,0 +1,14 @@
+#tablebox {
+    width: 100%;
+    height: 500px;
+    display: block; 
+    white-space: pre; 
+    font-family: Courier; 
+}
+
+result { 
+    display: block; 
+    white-space: pre; 
+    font-family: Courier; 
+    unicode-bidi: embed; 
+}
