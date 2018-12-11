@@ -23,7 +23,9 @@ permalink: /links/
     * [CMU 15-897: Parallel Computing: Theory and Practice](http://www.umut-acar.org/tapp)
 
 * [Stanford University Theory Group](http://theory.stanford.edu) . 斯坦福大学理论组？
-  * [Tim Roughgarden](http://theory.stanford.edu/~tim/) <br> [Algorithms Illuminated Part 1: The Basics](https://www.amazon.com/dp/0999282905) <br> [Algorithms Illuminated Part 2: Graph Algorithms and Data Structures](https://www.amazon.com/dp/0999282921) <br> [算法详解（卷1）——算法基础](https://www.epubit.com/book/detail/22553)
+  * [Tim Roughgarden](http://theory.stanford.edu/~tim/) 
+    * [Algorithms Illuminated Part 1: The Basics](https://www.amazon.com/dp/0999282905) . [算法详解（卷1）——算法基础](https://www.epubit.com/book/detail/22553)
+    * [Algorithms Illuminated Part 2: Graph Algorithms and Data Structures](https://www.amazon.com/dp/0999282921)
   * [CS 161: Design and Analysis of Algorithms](http://web.stanford.edu/class/cs161/)
   * [CS 166: Data Structures](http://web.stanford.edu/class/cs166/)
   * [CS 168: The Modern Algorithmic Toolbox](http://web.stanford.edu/class/cs168/)
