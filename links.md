@@ -22,6 +22,15 @@ permalink: /links/
     * [CMU 15-210: Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)
     * [CMU 15-897: Parallel Computing: Theory and Practice](http://www.umut-acar.org/tapp)
 
+* [Stanford University Theory Group](http://theory.stanford.edu) . 斯坦福大学理论组？
+  * [Tim Roughgarden](http://theory.stanford.edu/~tim/) <br> [Algorithms Illuminated Part 1: The Basics](https://www.amazon.com/dp/0999282905) <br> [Algorithms Illuminated Part 2: Graph Algorithms and Data Structures](https://www.amazon.com/dp/0999282921) <br> [算法详解（卷1）——算法基础](https://www.epubit.com/book/detail/22553)
+  * [CS 161: Design and Analysis of Algorithms](http://web.stanford.edu/class/cs161/)
+  * [CS 166: Data Structures](http://web.stanford.edu/class/cs166/)
+  * [CS 168: The Modern Algorithmic Toolbox](http://web.stanford.edu/class/cs168/)
+  * [CS 261: Optimization and Algorithmic Paradigms](http://web.stanford.edu/class/cs261/)
+  * [CS 261: A Second Course in Algorithms](http://theory.stanford.edu/~tim/w16/w16.html)
+  * [CS 264: Beyond Worst-Case Analysis](http://theory.stanford.edu/~tim/f14/f14.html)
+
 ### University of Cambridge
 
 * [Department of Computer Science and Technology - The Computer Laboratory](https://www.cl.cam.ac.uk/)
