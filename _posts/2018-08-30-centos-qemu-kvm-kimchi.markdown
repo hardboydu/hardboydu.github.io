@@ -238,3 +238,11 @@ sudo systemctl restart wokd nginx firewalld
 # vi /etc/modprobe.d
 options vfio_iommu_type1 allow_unsafe_interrupts=1
 ```
+
+最后执行
+
+```
+grub2-mkconfig -o /boot/grub2/grub.cfg
+
+reboot
+```
