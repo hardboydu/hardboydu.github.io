@@ -53,7 +53,8 @@ sudo yum -y update
 sudo yum -y install libvirt-python libvirt libvirt-daemon-config-network qemu-kvm \
                     python-ethtool sos python-ipaddr nfs-utils iscsi-initiator-utils \
                     pyparted python-libguestfs libguestfs-tools novnc spice-html5 \
-                    python-configobj python-magic python-paramiko python-pillow virt-top
+                    python-configobj python-magic python-paramiko python-pillow virt-top \
+                    acpid
 ```
 
 安装 kimchi
@@ -99,6 +100,13 @@ SELINUXTYPE=targeted
 ```bash
 sudo systemctl enable chronyd
 sudo systemctl restart chronyd
+```
+
+电源管理服务
+
+```bash
+sudo systemctl enable acpid
+sudo systemctl restart acpid
 ```
 
 重启 kimchi 服务
@@ -217,3 +225,16 @@ sudo systemctl restart wokd nginx firewalld
 然后在添加的虚拟机下拉框点击 Start，这样虚拟机就启动了，然后点击 View Console 这样就会弹出一个窗口，使用SPICE 远程控制虚拟机图形界面：
 
 ![image](/assets/images/2018-08-30/018.PNG)
+
+# 透传PCI设备
+
+对于 Intel 系统，引导机器，把 intel_iommu=on 添加到 grub 配置文件的 GRUB_CMDLINE_LINUX 一行的最后。
+
+如果因为硬件不支持中断重映射（interrupt remapping）导致透传失败，您可以在信任虚拟机的情况下启用 allow_unsafe_interrupts 选项。因为启用 allow_unsafe_interrupts 选项可能会存在通过虚拟机对主机进行 MSI 攻击的可能，因此这个选项在默认情况下没有被启用。
+
+在 grub 配置文件中 GRUB_CMDLINE_LINUX 一行的最后加入 `vfio_iommu_type1.allow_unsafe_interrupts=1`，或者：
+
+```sh
+# vi /etc/modprobe.d
+options vfio_iommu_type1 allow_unsafe_interrupts=1
+```

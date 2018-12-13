@@ -21,7 +21,6 @@ permalink: /links/
     * [CMU 15-213/18-213/15-513: Intro to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s18/www/)
     * [CMU 15-210: Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)
     * [CMU 15-897: Parallel Computing: Theory and Practice](http://www.umut-acar.org/tapp)
-
 * [Stanford University Theory Group](http://theory.stanford.edu) . 斯坦福大学理论组？
   * [Tim Roughgarden](http://theory.stanford.edu/~tim/) 
     * [Algorithms Illuminated Part 1: The Basics](https://www.amazon.com/dp/0999282905) . [算法详解（卷1）——算法基础](https://www.epubit.com/book/detail/22553)
