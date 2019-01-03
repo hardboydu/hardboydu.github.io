@@ -32,6 +32,10 @@ permalink: /links/
   * [CS 261: Optimization and Algorithmic Paradigms](http://web.stanford.edu/class/cs261/)
   * [CS 261: A Second Course in Algorithms](http://theory.stanford.edu/~tim/w16/w16.html)
   * [CS 264: Beyond Worst-Case Analysis](http://theory.stanford.edu/~tim/f14/f14.html)
+* [University of Illinois Urbana-Champaign] . 伊利诺伊大学厄巴纳 - 香槟分校
+  * [Jeff Erickson](http://jeffe.cs.illinois.edu/)
+    * [🔥Algorithms textbook](http://jeffe.cs.illinois.edu/teaching/algorithms)
+    * [CS/ECE 374: Introduction to Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs374/)
 
 ### University of Cambridge
 
