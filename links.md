@@ -18,6 +18,7 @@ permalink: /links/
 
 * [Carnegie Mellon University School of Computer Science](https://www.cs.cmu.edu/) . 卡内基梅隆大学计算机
     * [CMU 15-418/15-618: Parallel Computer Architecture and Programming](https://www.cs.cmu.edu/~418) 并行计算的体系结构和编程，有视频PPT，讲解的很细，值得深入学习
+    * [CMU 15-451/651: Algorithms](https://www.cs.cmu.edu/~15451/)  the design and analysis of algorithms.
     * [CMU 15-853: Algorithms in the "Real World"](https://www.cs.cmu.edu/afs/cs/project/pscico-guyb/realworld/www/)
     * [CMU 15-213/18-213/15-513: Intro to Computer Systems](https://www.cs.cmu.edu/afs/cs/academic/class/15213-s18/www/)
     * [CMU 15-210: Parallel and Sequential Data Structures and Algorithms](https://www.cs.cmu.edu/~15210/)
