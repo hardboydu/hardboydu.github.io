@@ -13,6 +13,7 @@ permalink: /links/
 * [Dennis Yurichev / Денис Юричев](https://yurichev.com/) . [Reverse Engineering for Beginners](https://beginners.re/) . [SAT/SMT by examples](https://yurichev.com/writings/SAT_SMT_by_example.pdf) . [逆向工程权威指南.异步社区](https://www.epubit.com/book/detail/18526)
 * [Timo Bingmann](https://panthema.net) . 卡尔斯鲁厄理工学院(Karlsruhe Institute of Technology)教授，算法方面，[可视化排序算法(The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms)](https://panthema.net/2013/sound-of-sorting/) . [github](https://github.com/bingmann/sound-of-sorting)
 * [Jeff Preshing](https://preshing.com) . 并行与并发方面值得一读，还有C++方面
+* [Geoff Langdale](https://branchfree.org/) . hyperscan 主要开发人员
 
 ## University
 
