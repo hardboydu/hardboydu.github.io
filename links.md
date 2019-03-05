@@ -38,6 +38,7 @@ permalink: /links/
   * [Jeff Erickson](http://jeffe.cs.illinois.edu/)
     * [🔥Algorithms textbook](http://jeffe.cs.illinois.edu/teaching/algorithms)
     * [CS/ECE 374: Introduction to Algorithms & Models of Computation](https://courses.engr.illinois.edu/cs374/)
+* [中国科学技术大学计算机学院课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
 
 ### University of Cambridge
 
