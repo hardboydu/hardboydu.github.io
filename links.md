@@ -14,6 +14,7 @@ permalink: /links/
 * [Timo Bingmann](https://panthema.net) . 卡尔斯鲁厄理工学院(Karlsruhe Institute of Technology)教授，算法方面，[可视化排序算法(The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms)](https://panthema.net/2013/sound-of-sorting/) . [github](https://github.com/bingmann/sound-of-sorting)
 * [Jeff Preshing](https://preshing.com) . 并行与并发方面值得一读，还有C++方面
 * [Geoff Langdale](https://branchfree.org/) . hyperscan 主要开发人员
+* [Daniel Lemire's blog](https://lemire.me/blog/) . Daniel Lemire is a computer science professor at the University of Quebec (Canada). His research is focused on software performance and data engineering. He is a techno-optimist. SIMD 方面的造诣很深
 
 ## University
 
