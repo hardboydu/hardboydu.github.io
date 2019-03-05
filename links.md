@@ -15,6 +15,7 @@ permalink: /links/
 * [Jeff Preshing](https://preshing.com) . 并行与并发方面值得一读，还有C++方面
 * [Geoff Langdale](https://branchfree.org/) . hyperscan 主要开发人员
 * [Daniel Lemire's blog](https://lemire.me/blog/) . Daniel Lemire is a computer science professor at the University of Quebec (Canada). His research is focused on software performance and data engineering. He is a techno-optimist. SIMD 方面的造诣很深
+* [Gonzalo Navarro](https://users.dcc.uchile.cl/~gnavarro/) . 信息检索大神，Flexible Pattern Matching in Strings 作者
 
 ## University
 
