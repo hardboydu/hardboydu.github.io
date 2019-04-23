@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visual Studio 2017 远程编译调试 Linux 上已存在的通过 Samba 共享的 CMake 工程"
-date:   2018-08-30 13:45:00 +0800
+date:   2018-10-12 13:45:00 +0800
 categories: vs2017 Linux samba cmake debug
 ---
 

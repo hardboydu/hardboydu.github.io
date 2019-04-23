@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "搭建IPv6 认证自测环境"
-date:   2018-08-30 13:45:00 +0800
-categories: vs2017 Linux samba cmake debug
+date:   2019-04-23 15:45:00 +0800
+categories: IPv6 FreeBSD Linux networking protocol
 ---
 
 ## 准备环境
