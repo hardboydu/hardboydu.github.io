@@ -29,7 +29,7 @@ categories: vs2017 Linux samba cmake debug
 
 安装到最后可以选择额外安装的数据包，将 Perl 勾选：
 
-![image](/assets/images/2019-04-23/004.png)
+![image](/assets/images/2019-04-23/004.PNG)
 
 安装完后可以查看网卡信息：
 
